@@ -1,4 +1,7 @@
 /*
+
+question:remilia plays soku
+
 Problem Idea:
 We are given a circular field with n positions.
 Two players are standing at positions x1 and x2.

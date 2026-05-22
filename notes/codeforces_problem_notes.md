@@ -2,7 +2,7 @@
 
 ---
 
-## Remilia plays soku
+## 1.Remilia plays soku
 
 ### Topic
 Math,Games, Implementation
@@ -20,7 +20,7 @@ Always check circular traversal.
 
 ---
 
-## Marisa steals Reimu's takeout
+## 2.Marisa steals Reimu's takeout
 
 ## Topic
 Greedy, Counting
